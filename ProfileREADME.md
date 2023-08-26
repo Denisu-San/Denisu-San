@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on anything since i'm pretty free for the time being
 - 📫 How to reach me:
-       email me at korewadenisu@gmail.com
-       my discord username is Deidee
+- email me at korewadenisu@gmail.com
+- my discord username is Deidee
 
 
   
